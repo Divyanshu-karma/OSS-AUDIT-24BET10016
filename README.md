@@ -1,5 +1,5 @@
 # OSS Audit — Python
-**Repository:** `OSS-Audit-24BEY10122`
+**Repository:** `OSS-Audit-24BET10016`
 
 ---
 
@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Mohit Pal |
-| **Registration Number** | 24BEY10122 |
+| **Student Name** | Divyanshu Karma |
+| **Registration Number** | 24BET10016 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python |
 | **License** | Python Software Foundation (PSF) License |
